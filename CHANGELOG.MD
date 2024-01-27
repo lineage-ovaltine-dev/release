@@ -18,10 +18,6 @@ lineage-20.0-20231116-UNOFFICIAL-Pig-ovaltine
   useless debugging tool from oplus
 - Sm8450-common: Switch to OSS composer. [pjgowtham]
 - Sm8450-common: overlay: Set up UDFPS framework dimming. [dekefake]
-- [DNM]Disable privapp-permissions whitelist enforcement. [Vineeta
-  Srivastava]
-
-  Otherwise device won't boot due to whitelist violations.
 - Sm8450-common: Register wise light as android.sensor.light. [LuK1337]
 
   Sadly a lot of apps aren't aware of config_displayLightSensorType.
