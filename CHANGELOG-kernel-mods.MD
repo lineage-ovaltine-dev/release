@@ -1,4 +1,4 @@
-(unreleased)
+lineage-20.0-20231116-UNOFFICIAL-Pig-ovaltine
 ------------
 - Display-drivers: sde_plane: extract bit in ZPOS into FOD. [Cosmin
   Tanislav]

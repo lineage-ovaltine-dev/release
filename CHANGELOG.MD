@@ -1,4 +1,4 @@
-(unreleased)
+lineage-20.0-20231116-UNOFFICIAL-Pig-ovaltine
 ------------
 - Sm8450-common: init: Deny access to HBM node. [Bruno Martins]
 
@@ -29,7 +29,7 @@
 - Sm8450-common: Do not build atrace HAL. [Pranav Vashi]
 
 
-(unreleased)
+lineage-20.0-20231116-UNOFFICIAL-Pig-ovaltine
 ------------
 - Ovaltine: Kang auto brightness configs from Oneplus 8T. [Phạm Tiên
   Sinh]

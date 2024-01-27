@@ -1,4 +1,4 @@
-(unreleased)
+lineage-20.0-20231116-UNOFFICIAL-Pig-ovaltine
 ------------
 - Soc/qcom/smcinvoke: use size_add from upstream. [pppig236]
 - Configs/vendor/oplus/waipio: diable oplus feedback. [pppig236]
